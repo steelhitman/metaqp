@@ -103,10 +103,10 @@ $(function() {
         <div class="card-body" style="">
           <div class="row">
           <div class="col-md-5">
-          <h5><b>Dept :</b> `+ results[i].Department + `<br></h5>
+          <h5><b>Department :</b> `+ results[i].Department + `<br></h5>
         </div>
             <div class="col-md-5">
-              <h5><b>Year : </b>`+ results[i].Semester +`<br><b>Sem :&nbsp;</b>`+ results[i].Year +`<br></h5>
+              <h5><b>Semester : </b>`+ results[i].Semester +`<br><b>Year :&nbsp;</b>`+ results[i].Year +`<br></h5>
             </div>
            
             <div class="col-md-2">
