@@ -137,7 +137,7 @@ $(function() {
     //$('.ratings').addClass('hidden');
     var query = $('#query').val().trim();
     if (query === '') {
-      $('.result-div').html(`    <h4 class="text-center">| Waiting for you to start searching |</h4>
+      $('.result-div').html(`    <h4 class="text-center">Waiting for you to start searching</h4>
                             <br><br>
                              <div class="container">
       <div class="row">
