@@ -1,1207 +1,765 @@
 [
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/file/d/1LEk3CgcyE5u0RHxxHUbG67_CexUvmBhU/view?usp=sharing",
-        "Paper": "Ananlog and Digital Communication",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1gUW0RJR0lzP8ZWEC7ciaJJeh8mydxGHm",
-        "Paper": "Fault tolerant system",
-        "Semester": "M.Tech 4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/file/d/1_7FoLEYdxzRB7R42IFyBO64IhEoOEbP0/view?usp=sharing",
-        "Paper": "Optical Communication system",
-        "Semester": "8th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1T2luY5z3925PHJrokOQPlvSCGLrPfdON",
-        "Paper": "Soft computing Techiques",
-        "Semester": "8th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Gvaowi0Z1697RK9uDD5LqLfutNXo6iYF",
-        "Paper": "Fundamentals of MIMO system",
-        "Semester": "M.Tech 4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1UFp8QfEl0qaKL-5bp-QEbe4Fb6wQBxzB",
-        "Paper": "Basic Data Structures",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1beQADRx923OPAHj1o0455LUyKYvZY28j",
-        "Paper": "Compiler Design",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1DsJdfMAh75MtrQKR3UkoXf7i-JJVqpR-",
-        "Paper": "Computer Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
-        "Paper": "Computer Organisation",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
-        "Paper": "Basic Electronic Devices and Circuits",
-        "Semester": "2nd Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "BI/BT",
-        "Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
-        "Paper": "Basic Electronics",
-        "Semester": "4th Sem /T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
-        "Paper": "Digital Electronics",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
-        "Paper": "Electromagnetic Engineering",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
-        "Paper": "Power Electronics",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Computer Science & IT",
-        "Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
-        "Paper": "Signals and Systems",
-        "Semester": "4th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
-        "Paper": "Telecommunication Networks",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    },
-    {
-        "Department": "Electronics and Communication Engineering",
-        "Link": "https://drive.google.com/open?id=1cXV2uWVIeal3F_AQes1pyi0tyE1bJwNf",
-        "Paper": "VLSI Technology and Applications",
-        "Semester": "6th Sem / T1",
-        "Year": "2018"
-    }
+  {
+		"Department": "Bioinformatics",
+		"Link": "https://drive.google.com/drive/folders/1lD8n5zTUT0jp54W0V5ozg-XKSZbGWZM3",
+		"Paper": "Advanced Algorithms for Bioinformatics",
+		"Semester": "6th Sem /T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Bioinformatics",
+		"Link": "https://drive.google.com/open?id=1up1jlxFyD7zDC-UMze_wuxja8UsoGPTB",
+		"Paper": "Computer Aided Drug Design",
+		"Semester": "6th Sem /T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Bioinformatics",
+		"Link": "https://drive.google.com/open?id=1HTb9HkpRhGSD4xMBut-cjOaZQG7XlMXz",
+		"Paper": "Datawarehousing and Mining in Bioinformatics",
+		"Semester": "6th Sem /T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Bioinformatics",
+		"Link": "https://drive.google.com/open?id=15QGu99ihjZ4IBZuz-LYhhG3hgE53UyRV",
+		"Paper": "Genetic Engineering and Genomics",
+		"Semester": "4th Sem /T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Bioinformatics",
+		"Link": "https://drive.google.com/open?id=1_RUMu6swIb5NeRKLJt1Ps0inDBnGL6qC",
+		"Paper": "Machine learning in Bioinformatics",
+		"Semester": "6th Sem /T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Bioinformatics",
+		"Link": "https://drive.google.com/open?id=1ZNiqkmHiJCvX6bz8KlZxPcR2RxK91BUk",
+		"Paper": "Molecular Genetics",
+		"Semester": "2nd Sem /T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Bioinformatics",
+		"Link": "https://drive.google.com/open?id=108BMIUGAXopn9stxuK3AHbQ7FFceLWOI",
+		"Paper": "Structural Biology",
+		"Semester": "1st Sem /T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Bioinformatics",
+		"Link": "https://drive.google.com/open?id=1adRuyN-8j1QzxeUPpkpJPMi5Jbb-W1wd",
+		"Paper": "Computational Molecular Evolution",
+		"Semester": "8th Sem /T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/file/d/1LEk3CgcyE5u0RHxxHUbG67_CexUvmBhU/view?usp=sharing",
+		"Paper": "Ananlog and Digital Communication",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/open?id=1UMbWGgOhdOzgq5c8snKtKBORIawbnK-1",
+		"Paper": "Basic Electronic Devices and Circuits",
+		"Semester": "2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/open?id=1qAtxozNLUB_5jtVhcvBVJG-rPPvJuoxC",
+		"Paper": "Basic Electronics",
+		"Semester": "4th Sem /T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/open?id=1Kxdud3gGEgr36Tx8NyHwmVOzNV_Dqhdo",
+		"Paper": "Digital Electronics",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/open?id=1FqeAdCFx8bHX48aD30ZpJa58KUDZbm5C",
+		"Paper": "Electromagnetic Engineering",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
+		"Paper": "Power Electronics",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1-eURuD4r5k8kIWGx5guIdcGV38QpvGyx",
+		"Paper": "Signals and Systems",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/open?id=1NANsrG9R4gig7S2ODlCAtjNgic1zXUxR",
+		"Paper": "Telecommunication Networks",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/open?id=1gUW0RJR0lzP8ZWEC7ciaJJeh8mydxGHm",
+		"Paper": "Fault tolerant system",
+		"Semester": "M.Tech 4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/file/d/1_7FoLEYdxzRB7R42IFyBO64IhEoOEbP0/view?usp=sharing",
+		"Paper": "Optical Communication system",
+		"Semester": "8th Sem /T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/open?id=1T2luY5z3925PHJrokOQPlvSCGLrPfdON",
+		"Paper": "Soft computing Techiques",
+		"Semester": "8th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/open?id=1Gvaowi0Z1697RK9uDD5LqLfutNXo6iYF",
+		"Paper": "Fundamentals of MIMO system",
+		"Semester": "M.Tech 4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Electronics and Communication Engineering",
+		"Link": "https://drive.google.com/open?id=11BXkRouF2s1j87SMmfi_D_P0GSkgW989",
+		"Paper": "Power Electronics",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1UFp8QfEl0qaKL-5bp-QEbe4Fb6wQBxzB",
+		"Paper": "Basic Data Structures",
+		"Semester": "2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1beQADRx923OPAHj1o0455LUyKYvZY28j",
+		"Paper": "Compiler Design",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1DsJdfMAh75MtrQKR3UkoXf7i-JJVqpR-",
+		"Paper": "Computer Networks",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1N0kCVWKEi2XSxoN9k56zQwhOpOrm8i-G",
+		"Paper": "Computer Organisation",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1Pq4k_dcduar1JeacTphXpGfSkSBNkCLO",
+		"Paper": "Computer Organisation And Architecture",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=16zDeruLgzdIyEySwugK8KmK5GARl3yIV",
+		"Paper": "Computer Graphics",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1-nP2NQH-ETm71IWFdFeFPUfvwgVMC02q",
+		"Paper": "Data Analysis and Simulation Techniques",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=13CfBw8s0TdwlqCnZalrhr47jGvrVkEjx",
+		"Paper": "Data Mining",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1JxBF90IVAY-YThFr-sA-LFTJkOZzg3Yp",
+		"Paper": "Data Structures",
+		"Semester": "2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1FZ9hKOkaWEK-tGjBtdDmkangLD01qTlL",
+		"Paper": "Fundamental of Algorithms",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1n1SOfbHas2dd0w2_gr8FcD6Q74UvqjTp",
+		"Paper": "Information Systems",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1BtazJa1Bu9SWKtEZynQOxZAvgrg7-qmt",
+		"Paper": "Microprocessors and Controllers",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=17tfckzb-WD_wwRpPa7XqgsJaJgRF264W",
+		"Paper": "Object Oriented Programming",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1ls8UzDXjVp4e9ulsaQhCXZjB_Wi6DoFy",
+		"Paper": "Object-Oriented Systems and Programming",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1OIKdjOH9x5xMifQdEY8LCpUImZDZk5p2",
+		"Paper": "Multimedia Systems",
+		"Semester": "M.Tech 2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=13Btd6rHEwXk7hyHiTHwHH1jPJMKtoLAM",
+		"Paper": "Advanced Computational Techniques in Engineering",
+		"Semester": "Ph D and M.Tech 4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=15l2kD15LD9zdFcYOYpXL3un1IC8MgVFh",
+		"Paper": "Cloud Computing",
+		"Semester": "8th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=12X5D0ibYplDAKlQaR5yZI6Jq_4WZDfYK",
+		"Paper": "Advanced Software Engineering",
+		"Semester": "B.Tech 8th and M.Tech 2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1e4pLtYz9nK-YJBH38lQ14DE1m7xxUiWC",
+		"Paper": "Service Oriented Architecture",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1RB-GpWGIMRUoJNZ4aB8xT3wxIWFpCZos",
+		"Paper": "Advanced Web Mining",
+		"Semester": "M.Tech 4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1xHtwkaw_nqZRcS6oVLzH-9YBd_R2bdXh",
+		"Paper": "Parallel Programming Techniques",
+		"Semester": "8th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1Uzf9yDw5UUOzQ47yxzEZ5rEHVGFh9w_i",
+		"Paper": "Parallel Programming",
+		"Semester": "8th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1NvHA-NAeG02hnmGErUBAe6WGQWHMD5DF",
+		"Paper": "Advanced Operating Systems",
+		"Semester": "B.Tech 8th and M.Tech 2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1t7mHenm_yS9T9p0kSqDmXlxWjyUgCpgQ",
+		"Paper": "Storage Networks",
+		"Semester": "8th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1AjmiikMu_ywkJFmyUeuH7xB5trmOBdOY",
+		"Paper": "Network Management",
+		"Semester": "7th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1HzMKKgWFNJJJa1oCU307VndD4v7M2-iY",
+		"Paper": "Perforrmance Evaluation of Networks",
+		"Semester": "M.Tech 2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=15_0PfvjDfdwqXBBUfBfn9T2pKBnd-Lk6",
+		"Paper": "Mobile Distributed Computing",
+		"Semester": "7th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=15wYBaZOixmM9ou8H0cIHiG0y7-5ixhE4",
+		"Paper": "Computer Game Design",
+		"Semester": "8th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1cLB4m1UEFh_jYoWrNpropaF1CEl4Syv_",
+		"Paper": "Wireless Sensor Networks- Protocols and Applications",
+		"Semester": "8th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1fzSoUK2wXgdaDvwJel6XwVwMHHpgCUw1",
+		"Paper": "Advanced Algorithms",
+		"Semester": "B.Tech 8th and M.Tech 2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1EoDCg2vfKsTwmNvhflBVFGxRqjBnUocV",
+		"Paper": "Internet of Things Architecture and Design",
+		"Semester": "8th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Computer Science & IT",
+		"Link": "https://drive.google.com/open?id=1wbE_BydZ_IxFaUNnF9wASBsARwTvYR36",
+		"Paper": "Big Data Analysis",
+		"Semester": "8th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1rLVNiiP7FNdH3xnW-J_ISCgphlhtlonG",
+		"Paper": "Cell Culture Technology",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1MWSdA3MlvmShBS9y66ZxTjtsunY4RbA4",
+		"Paper": "Comparative and Functional Genomics",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1nDBT20RHoLyN6QZO040sNrSfj0fT1acC",
+		"Paper": "Diagnostics and Vaccine Manufacture Technologies",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=12QsEdGji_14NsHKF7PBsCDj3t7VExrSx",
+		"Paper": "Downstream Processing",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1i9UgPgc0IhLyyZd-3Nk1genGkJLRT26w",
+		"Paper": "Food and Agricultural Biotechnology",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1qf-qdarEe-ZCFMCyXKrFxWIMOPFm133P",
+		"Paper": "Genetics",
+		"Semester": "2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1rk65fA4mToL3x84lqyAPae1ibCL04Q-X",
+		"Paper": "General Chemistry",
+		"Semester": "2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=11cjhcoLVVsMAOuWGf5tysdIPKar593tQ",
+		"Paper": "Molecular Biology",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1pkh5Dkgtp-LiF3uAi5lo6femi5hYmelh",
+		"Paper": "Chemistry",
+		"Semester": "2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1rLVNiiP7FNdH3xnW-J_ISCgphlhtlonG",
+		"Paper": "Cell Culture Technology",
+		"Semester": "4th Sem / T1",
+		"Year": "2017"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1MWSdA3MlvmShBS9y66ZxTjtsunY4RbA4",
+		"Paper": "Comparative and Functional Genomics",
+		"Semester": "6th Sem / T1",
+		"Year": "2017"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1nDBT20RHoLyN6QZO040sNrSfj0fT1acC",
+		"Paper": "Diagnostics and Vaccine Manufacture Technologies",
+		"Semester": "6th Sem / T1",
+		"Year": "2017"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=12QsEdGji_14NsHKF7PBsCDj3t7VExrSx",
+		"Paper": "Downstream Processing",
+		"Semester": "6th Sem / T1",
+		"Year": "2017"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1i9UgPgc0IhLyyZd-3Nk1genGkJLRT26w",
+		"Paper": "Food and Agricultural Biotechnology",
+		"Semester": "6th Sem / T1",
+		"Year": "2017"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1qf-qdarEe-ZCFMCyXKrFxWIMOPFm133P",
+		"Paper": "Genetics",
+		"Semester": "2nd Sem / T1",
+		"Year": "2017"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1rk65fA4mToL3x84lqyAPae1ibCL04Q-X",
+		"Paper": "General Chemistry",
+		"Semester": "2nd Sem / T1",
+		"Year": "2017"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=11cjhcoLVVsMAOuWGf5tysdIPKar593tQ",
+		"Paper": "Molecular Biology",
+		"Semester": "4th Sem / T1",
+		"Year": "2017"
+	},
+	{
+		"Department": "Biotechnology",
+		"Link": "https://drive.google.com/open?id=1pkh5Dkgtp-LiF3uAi5lo6femi5hYmelh",
+		"Paper": "Chemistry",
+		"Semester": "2nd Sem / T1",
+		"Year": "2017"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1qoM8SiVlYfp_K1ByodUfe3o4wnkncKKt",
+		"Paper": "Advance Structure Analysis",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1PSfRqFvywa1JSixqRUb_s5PdgB0hBmM8",
+		"Paper": "Buliding Materials & Construction",
+		"Semester": "2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1_VDjhhC808_DBux04zeyfdpYr4WHCpao",
+		"Paper": "Concrete Technology ",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1DNDbEcNV5yRADD--YSr42Fv5jCzSP1_D",
+		"Paper": "Design of steel structure ",
+		"Semester": "5th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1DNDbEcNV5yRADD--YSr42Fv5jCzSP1_D",
+		"Paper": "Engineering mechanics",
+		"Semester": "2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/file/d/13-FKsnvsM13OFGBOHFsbn50iltCdikFQ/view?usp=sharing",
+		"Paper": "Environmental studies",
+		"Semester": "2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/file/d/13-FKsnvsM13OFGBOHFsbn50iltCdikFQ/view?usp=sharing",
+		"Paper": "Foundation Engineering",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1AYS6TC_NnrKFu_5rK1bU8YrE88vvQqAj",
+		"Paper": "Geo Technical Engineering",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1o1J_P4pi06_RJORGeP3UMmxfUrzlyJIC",
+		"Paper": "Sewage Treatment And Disposal",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1JFavOf_De-RnEVmAYFFSyhLBdeMRUNQX",
+		"Paper": "Structure Analysis",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1qpcErQVU_KSI0HBogz-xTaEBxo38Hyfp",
+		"Paper": "Surveying",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=16vAmCqR0j4DY--0oqiifX7EScfhLWqKH",
+		"Paper": "Transportation Engineering",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1cLbtuFns8-Qi06BpT_6nGkOpxC7-sCHL",
+		"Paper": "Air And Noise Pollution Control",
+		"Semester": "M.tech 2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1SQUd9Fx_P6iFdveCVKUG0UCv1V6aLwFH",
+		"Paper": "Construction Method Improvement",
+		"Semester": "M.tech 4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=104zcHAU2oyLm5qL_6HdUv63gfkpxEQzX",
+		"Paper": "Environmental Audit",
+		"Semester": "M.tech 4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1r2_K9kidfUnhb7Yxtiem4tSh1Ctg4bG1",
+		"Paper": "Prestressed Concrete Design",
+		"Semester": "M.tech 2th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1LBNniEkW971j7_UqiiylapICoG7gBCQG",
+		"Paper": "hazardous waste management",
+		"Semester": "M.tech 1st Sem/B.Tech 8th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=17uv0G3w8N8f58kTYkS3Hj2y_uxRWLrun",
+		"Paper": "Process Design in Environmental Engineering",
+		"Semester": "M.tech 2nd Sem/B.Tech 8th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1_Tm73NAozNSicHw818kZX4hbVaX39X1l",
+		"Paper": "Bridge Engineering",
+		"Semester": "M.tech 4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1eWKFG9jLhmguKNJEu250YNSnXCLeJnC2",
+		"Paper": "Solid Mechanics in Structral Engineering",
+		"Semester": "B.tech 8th Sem And M.tech 2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1OVOttDxTlh1xhDQuhMbE6oAJFrxXkYD7",
+		"Paper": "Heavy/Civil Construction Methods",
+		"Semester": "M.tech 2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1-gMoPmqkSmyj2uxK9irf9annTlSXj-J3",
+		"Paper": "Theory of Plates And Shells",
+		"Semester": "M.tech 2nd Sem & B.tech 8th sem/ T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=15sw1EbDzAtH0fgFVsrR8NcOwKT3amsis",
+		"Paper": "Construction Contact laws",
+		"Semester": "M.tech 2nd Sem & B.tech 8th sem/ T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1xzdSCYQwc_YlWVZ1kdnLKzQ4Ue31UtCM",
+		"Paper": "Construction Contact laws",
+		"Semester": "M.tech 1st sem/ T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1GtH5gjhR3It3c4YN_yrDXn1cfJfMl3VA",
+		"Paper": "Surface Water Quality Mannagement",
+		"Semester": "M.tech 1st sem & B.Tech 8th Sem/ T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1vwzz0KuKCSzWyOdPkDzGBoC7Shi1tBQg",
+		"Paper": "Principles of Affordable Housing",
+		"Semester": "M.tech 4th sem/ T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1SsvZErxD9Qb06iA5eL2R6n2yaY6oZaHE",
+		"Paper": "Earthquake Resistant Design of Structure",
+		"Semester": "M.tech 2nd sem & B.Tech 8th/ T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=18YzqLqEye-cOud3iippm3FvTTXEmr_vv",
+		"Paper": "Industrial Wastewater Treatment",
+		"Semester": "M.tech 2nd sem & B.Tech 8th/ T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1rpsri1CGtfZSIHbq_09UzmU82p27Hl4T",
+		"Paper": "Sustainable Design And Construction ",
+		"Semester": "M.tech 2nd sem",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1ee9MBkGrW9IfEKlGpptuZzFnL_gxjDZs",
+		"Paper": "Construction Finantial Mannagement",
+		"Semester": "M.tech(CM) 2nd sem",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1buIywoZxbm1f0AFnZHbr_dUSAl6iR-ic",
+		"Paper": "Construction Cost Analysis",
+		"Semester": "M.tech 2nd sem",
+		"Year": "2018"
+	},
+	{
+		"Department": "Civil Engineering",
+		"Link": "https://drive.google.com/open?id=1doXlH8TP6ahKv2ckBKM62fllbnHHCWBu",
+		"Paper": "Design of Steel Structure",
+		"Semester": "M.tech 2nd sem & B.Tech 8th",
+		"Year": "2018"
+	},
+	{
+		"Department": "physics",
+		"Link": "https://drive.google.com/open?id=1lFpChSoqnP8AM8KYlAYYx5xtbVr3Kxpy",
+		"Paper": "bio physical techniques",
+		"Semester": "4th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "physics",
+		"Link": "https://drive.google.com/open?id=1DZ2Gp2r81YmLYZmA2vw_xpf0LGCEySTU",
+		"Paper": "material science",
+		"Semester": "6th Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "physics",
+		"Link": "https://drive.google.com/open?id=1VGPirrWABDX4rmEwDqxMUYTmv3o9Sl1b",
+		"Paper": "physics 2",
+		"Semester": "2nd Sem / T1",
+		"Year": "2018"
+	},
+	{
+		"Department": "physics",
+		"Link": "https://drive.google.com/open?id=1-Iw-CveLtbrCDbziv29otG5BcjgDBXyF",
+		"Paper": "material science",
+		"Semester": "6th Sem / T2",
+		"Year": "2018"
+	},
+	{
+		"Department": "physics",
+		"Link": "https://drive.google.com/open?id=1LX_2n-MnYFIQH_a9Y7ubBq2McikpOeXV",
+		"Paper": "physics 2",
+		"Semester": "2nd Sem / T2",
+		"Year": "2018"
+	},
+	{
+		"Department": "physics",
+		"Link": "https://drive.google.com/open?id=1qf9AXtQ9YUpPD5nTsSGAX3_KXx892z89",
+		"Paper": "biophysical techniques",
+		"Semester": "4th Sem / T2",
+		"Year": "2018"
+	}
 ]
