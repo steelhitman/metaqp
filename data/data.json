@@ -702,7 +702,7 @@
 	{
 		"Department": "Civil Engineering",
 		"Link": "https://drive.google.com/open?id=1ee9MBkGrW9IfEKlGpptuZzFnL_gxjDZs",
-		"Paper": "Construction Finantial Mannagement",
+		"Paper": "Construction Financial Mannagement",
 		"Semester": "M.tech(CM) 2nd sem",
 		"Year": "2018"
 	},
@@ -761,5 +761,102 @@
 		"Paper": "biophysical techniques",
 		"Semester": "4th Sem / T2",
 		"Year": "2018"
-	}
+    },
+    {
+        "Department": "Mathematics",
+        "Link": "https://drive.google.com/open?id=1pCiOxuGypCX9krfebfz5njZQ1ETcqMLR",
+        "Paper": "Basic Mathematics-II",
+        "Semester": "2nd Sem / T1",
+        "Year": "2018"
+    },
+	  {
+        "Department": "Mathematics",
+        "Link": "https://drive.google.com/open?id=1o8RLi-o_gjCtSkFluwnjAvhe6s4SoGzR",
+        "Paper": "Biostatics",
+        "Semester": "4th Sem / T1",
+        "Year": "2018"
+    },
+	{
+        "Department": "Mathematics",
+        "Link": "https://drive.google.com/open?id=1gHKa_4KDlLEB823asGLRC3k_2ppsNx9P",
+        "Paper": "Discrete mathematics",
+        "Semester": "2nd Sem / T1",
+        "Year": "2018"
+    },
+		{
+        "Department": "Mathematics",
+        "Link": "https://drive.google.com/open?id=19n-D-xQXEb8B3YJeOplO7Mz_OpGZpnd8",
+        "Paper": "CE-Mathematics-II",
+        "Semester": "2nd Sem / T1",
+        "Year": "2018"
+    },
+	{
+        "Department": "Mathematics",
+        "Link": "https://drive.google.com/open?id=13hVTaEtkWGzgEhqv2ymvIZ1p_YdWDQsn",
+        "Paper": "Probability theory and random processes",
+        "Semester": "4th Sem / T1",
+        "Year": "2018"
+    },
+	{
+        "Department": "Mathematics",
+        "Link": "https://drive.google.com/open?id=1u-IEMAlDATCblO-rLfH1T79DsTd4Apxk",
+        "Paper": "Linear Progamming and applications",
+        "Semester": "8th Sem / T1",
+        "Year": "2018"
+    },
+	{
+        "Department": "Humanities and social sciences",
+        "Link": "https://drive.google.com/open?id=1OQnoN1T3fXPD0UOSoTkExlo8hjo5FlJI",
+        "Paper": "Financial Management",
+        "Semester": "4th Sem / T1",
+        "Year": "2018"
+    },
+	{
+        "Department": "Humanities and social sciences",
+        "Link": "https://drive.google.com/open?id=111S1DzLDNWuPTdt_QOGjxwl9KRTfW6zU",
+        "Paper": "Group and cooperative processes",
+        "Semester": "2nd Sem / T1",
+        "Year": "2018"
+    },
+	{
+        "Department": "Humanities and Social Sciences",
+        "Link": "https://drive.google.com/open?id=1WbtrogWOrxh0BrXK5IWebvOs_EEuBzHa",
+        "Paper": "Project Management",
+        "Semester": "6th Sem / T1",
+        "Year": "2018"
+    },{
+        "Department": "Humanities and social sciences",
+        "Link": "https://drive.google.com/open?id=19UmsGr1KvJyRjy0efkjboZX3sQghogi1",
+        "Paper": "International Human resource Managment",
+        "Semester": "8th Sem / T1",
+        "Year": "2018"
+    },
+	{
+        "Department": "Humanities and social sciences",
+        "Link": "https://drive.google.com/open?id=1S9vV-g7tpvwjGzFROerKn5Htz8AYnAvz",
+        "Paper": "Internet Marketing",
+        "Semester": "8th Sem / T1",
+        "Year": "2018"
+    },
+	{
+        "Department": "Humanities and social sciences",
+        "Link": "https://drive.google.com/open?id=1RxfzX5v7vgCb7Fj3RBaYxubYdZPJ_470",
+        "Paper": "Understanding India",
+        "Semester": "8th Sem / T1",
+        "Year": "2018"
+    },
+	{
+        "Department": "Humanities and social sciences",
+        "Link": "https://drive.google.com/open?id=1_GPfEbQp3glyXOR3B6gPWy-ne3Fz2q-w",
+        "Paper": "International Business  Management",
+        "Semester": "8th Sem / T1",
+        "Year": "2018"
+    },
+	{
+        "Department": "Humanities and social sciences",
+        "Link": "https://drive.google.com/open?id=1SoGViHZDZHNk_2mrENtz2_tdjfc3PCMq",
+        "Paper": "strategic Management",
+        "Semester": "8th Sem / T1",
+        "Year": "2018"
+    }
 ]
