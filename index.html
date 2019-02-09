@@ -6,7 +6,7 @@
   <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>     
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" href="https://templates.pingendo.com/assets/Pingendo_favicon.ico">
+  
   <title>metaJUIT Question Paper search</title>
   <meta name="description" content="Fuzzy Question Paper Search Portal by metaJUIT.">
   <meta name="metaJUIT" content="">
@@ -59,6 +59,19 @@
 
 
         <script src="search.js"></script>
+        <script>
+$(window).scroll(function() {
+    if ($(this).scrollTop()>300)
+     {  $('#fot').show(200);
+        
+     }
+    else
+     {
+       $('#fot').hide(200);
+     }
+ });
+</script>
+        
     </head>
 
 <body>
@@ -97,10 +110,10 @@
                    <h4 class="text-center">Waiting for you to search the paper</h4>
                     <br>
                     <br>
-                    <div class="container">
+                    <div class="container rounded bg-light">
       <div class="row">
         <div class="my-3 col-lg-4 col-md-4">
-          <a href="http://metajuit.org" target="_blank"><img class="img-fluid d-block" src="metalogo white.png"></a>
+          <a href="http://metajuit.org" target="_blank"><img class="img-fluid d-block" src="metalogo black.png"></a>
           <p class="text-white">All Rights Reserved © 2019 | metaJUIT  .&nbsp;</p>
           <p>Made with <span class="iconify" data-icon="twemoji-red-heart" data-inline="false"></span> for the community by <a href="http://akhileshkumar.me" target="_blank"> Akhilesh</a> & <a href="lavishkumar.info" target="_blank"> Lavish</a> </p> 
         </div>
@@ -127,7 +140,7 @@
     </div>
   </div>
   <!-- Footer -->
-      <footer class="text-md-left text-center p-4  bg-dark text-light" >
+      <footer id="fot" class="hidden text-md-left text-center p-4  bg-dark text-light" >
     <div class="container">
       <div class="row">
         <div class="my-3 col-lg-4 col-md-4">
