@@ -137,13 +137,14 @@ $(function() {
     //$('.ratings').addClass('hidden');
     var query = $('#query').val().trim();
     if (query === '') {
-      $('.result-div').html(`    <h4 class="text-center">Waiting for you to start searching</h4>
-                            <br><br>
-                             <div class="container">
+      $('.result-div').html(`    <h4 class="text-center mb-4">Waiting for you to search the paper</h4>
+                    <br>
+                    <br>
+                    <div class="container rounded bg-light text-md-left text-center">
       <div class="row">
         <div class="my-3 col-lg-4 col-md-4">
-          <a href="http://metajuit.org" target="_blank"><img class="img-fluid d-block" src="metalogo white.png"></a>
-          <p class="text-white">All Rights Reserved © 2019 | metaJUIT  .&nbsp;</p>
+          <a href="http://metajuit.org" target="_blank"><img class="img-fluid d-block" src="metalogo black.png"></a>
+          <p class="text-black">All Rights Reserved © 2019 | metaJUIT  .&nbsp;</p>
           <p>Made with <span class="iconify" data-icon="twemoji-red-heart" data-inline="false"></span> for the community by <a href="http://akhileshkumar.me" target="_blank"> Akhilesh</a> & <a href="lavishkumar.info" target="_blank"> Lavish</a> </p> 
         </div>
         <div class="my-3 col-lg-4">
@@ -159,8 +160,7 @@ $(function() {
         </div>
       </div>
       <p class="text-center">Maintained by Akhilesh | Powered with <span class="iconify" data-icon="twemoji-red-heart" data-inline="false"></span> by MetaJUIT</p>
-    </div>
-                            `);
+    </div>`);
      
       return;
     }
