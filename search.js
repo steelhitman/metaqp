@@ -91,9 +91,14 @@ $(function() {
   }
 
   function displayResults(results) {
+      $('#maincontainer').addClass("cover");
+      $('#result').removeClass("hidden");
+      $('#headc').addClass("hidden");
+//      $('#query').addClass("hidden");
+//      $('#query').removeClass("hidden");
     var html = '';
     for (var i = 0; i < 20; ++i) {
-      html += `<a href="`+results[i].Link+`" class="list-group-item list-group-item-action flex-column align-items-start my-1 card" style="padding: 0.1rem">
+      html += `<a href="`+results[i].Link+`" class=" list-group-item list-group-item-action flex-column align-items-start my-1 card" style="padding: 0.1rem">
       <div class="card">
         <div class="card-header bg-primary" >
           <div class="d-inline-flex mx-auto" style="">
@@ -137,30 +142,11 @@ $(function() {
     //$('.ratings').addClass('hidden');
     var query = $('#query').val().trim();
     if (query === '') {
-      $('.result-div').html(`    <h4 class="text-center mb-4">Waiting for you to search the paper</h4>
-                    <br>
-                    <br>
-                    <div class="container rounded bg-light text-md-left text-center">
-      <div class="row">
-        <div class="my-3 col-lg-4 col-md-4">
-          <a href="http://metajuit.org" target="_blank"><img class="img-fluid d-block" src="metalogo black.png"></a>
-          <p class="text-black">All Rights Reserved © 2019 | metaJUIT  .&nbsp;</p>
-          <p>Made with <span class="iconify" data-icon="twemoji-red-heart" data-inline="false"></span> for the community by <a href="http://akhileshkumar.me" target="_blank"> Akhilesh</a> & <a href="lavishkumar.info" target="_blank"> Lavish</a> </p> 
-        </div>
-        <div class="my-3 col-lg-4">
-          <h3>Help us optimize</h3>
-          <p>To contribute a question paper, email <a href="mailto:metajuit-qp@googlegroups.com"> here</a>. See all contributors <a href="#" target="_blan"> here</a> <br>Or join us on Slack <a href="metajuit.herokuapp.com" target="_blank"> here</a></p>
-          <p class="text-muted">.&nbsp;</p>
-        </div>
-        <div class="my-3 col-lg-4">
-        	<!-- Added iconify-->
-          <h3>Know Us&nbsp;</h3>
-          <p><a href="https://github.com/metajuit" target="_blank"> <span class="iconify" data-icon="logos:github-octocat" data-inline="false" data-width="36" data-height="36"></span></a> <a href="https://metajuit.herokuapp.com"> <span class="iconify" data-icon="logos:slack" data-inline="false" data-width="30" data-height="30"></span></a> <a href="https://wiki.metajuit.org"> <span class="iconify" data-icon="flat-color-icons:wikipedia" data-inline="false" data-width="30" data-height="30"></span></a> <a href="#"> <span class="iconify" data-icon="simple-icons:minutemailer" data-inline="false" data-width="30" data-height="30"></span></a><br>
-          MetaJUIT<br>Jaypee University of Information Technology, Waknaghat</p>
-        </div>
-      </div>
-      <p class="text-center">Maintained by Akhilesh | Powered with <span class="iconify" data-icon="twemoji-red-heart" data-inline="false"></span> by MetaJUIT</p>
-    </div>`);
+      $('#headc').removeClass("hidden");
+      $('#maincontainer').removeClass("cover");
+      $('#result').addClass("hidden");
+//      $('#query').addClass("hidden");
+//      $('#query').removeClass("hidden");
      
       return;
     }
